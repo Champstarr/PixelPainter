@@ -9,8 +9,24 @@
   width: 45px;
   height: 45px;
   border: 1px solid black;
-  display: inline-block;
+  /*display: inline-block, works as well;*/
   float: left;
+}
+
+.col2 {
+  width: 16px;
+  height: 16px;
+  border: 1px solid black;
+  /*display: inline-block, works as well;*/
+  float: left;
+}
+
+#artboard {
+  float: left;
+}
+
+#controls {
+  float: right;
 }
 
 
